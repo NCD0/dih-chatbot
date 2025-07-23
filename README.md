@@ -10,8 +10,8 @@ I added google search so that the api would do google search when told to or whe
 **JavaFX Client**
 1. Clone the repo:
 ```bash
-   git clone https://github.com/NCD0/dih-chatbot.git
-   cd dih-chatbot
+git clone https://github.com/NCD0/dih-chatbot.git
+cd dih-chatbot
 ```
 2. Open in IntelliJ IDEA or your preferred IDE.
 3. Build and run `Main.java`.
