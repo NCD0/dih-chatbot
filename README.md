@@ -32,3 +32,5 @@ node server.js
 ```
 
 Please keep in mind that I made this app for learning purposes only and that if you were to release it, it'd be better to save the chat history somewhere like a database and secure senstive things like api keys somewhere else like `.env` files. Also don't forget to implement things like ratelimiting.
+
+<img width="803" height="676" alt="image" src="https://github.com/user-attachments/assets/1520e8b1-332f-465d-b6a8-e463c8bb431d" />
