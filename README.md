@@ -6,6 +6,8 @@ Please keep in mind this might not be a great resource since I built that app wi
 How it works is basically the JavaFx client provides a simple chat UI and when u send a message it sends a `POST` request to the Node.js server and that request takes in two parameters which are the message and your chat history, then the server creates a new gemini chat and sends it all to the gemini api and after all that it returns the response back to the java app.
 I added google search so that the api would do google search when told to or when needed but you can modify it as you like.
 
+I made it obsessed with Dih just because im bored
+
 ## How to setup:
 **JavaFX Client**
 1. Clone the repo:
